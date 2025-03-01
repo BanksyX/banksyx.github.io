@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "BanksyX;s "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+不要温和地走进那良夜，
+老年应当在日暮时燃烧咆哮；
+怒斥，怒斥光明的消逝。
+ 
+虽然智慧的人临终时懂得黑暗有理，　
+因为他们的话没有迸发出闪电，他们也并不温和地走进那个良夜。
+ 
+
+善良的人，当最后一浪过去，高呼他们脆弱的善行
+可能曾会多么光辉地在绿色的海湾里舞蹈，
+怒斥，怒斥光明的消逝。
 
 Welcome to BanksyX's Blog Website!
 ======
