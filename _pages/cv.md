@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science & Artificial Intelligence, University of Electronic Science and Technology of China, 2021 - 2024, Chengdu
-
+* Visiting Student in CICS, University of Massachusetts Amherst, under supervision of [Prof.Jie Xiong](https://jiexiong1.github.io/) , 2019.06 - 2019.10, Boston, USA
 Work experience
 ======
 * 2024-07 to Now: Kuaishou Technology
